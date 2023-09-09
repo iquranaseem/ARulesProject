@@ -1,0 +1,21 @@
+Unnamed: 0,antecedents,consequents,lift,antecedents categories,consequents categories
+1,frozenset({'bottled water'}),frozenset({'whole milk'}),1.1476,beverage,dairy
+2,frozenset({'sausage'}),frozenset({'whole milk'}),1.1334,meat,dairy
+3,frozenset({'rolls/buns'}),frozenset({'whole milk'}),1.1145,carbs,dairy
+4,frozenset({'other vegetables'}),frozenset({'whole milk'}),1.1091,fruit and veg,dairy
+5,frozenset({'tropical fruit'}),frozenset({'whole milk'}),1.0877,fruit and veg,dairy
+6,frozenset({'root vegetables'}),frozenset({'whole milk'}),1.0706,fruit and veg,dairy
+7,frozenset({'soda'}),frozenset({'whole milk'}),1.052,beverage,dairy
+8,frozenset({'yogurt'}),frozenset({'other vegetables'}),1.129,dairy,fruit and veg
+9,frozenset({'rolls/buns'}),frozenset({'other vegetables'}),1.1143,carbs,fruit and veg
+10,frozenset({'whole milk'}),frozenset({'other vegetables'}),1.1091,dairy,fruit and veg
+11,frozenset({'soda'}),frozenset({'other vegetables'}),1.0517,beverage,fruit and veg
+12,frozenset({'yogurt'}),frozenset({'rolls/buns'}),1.1253,dairy,carbs
+13,frozenset({'whole milk'}),frozenset({'rolls/buns'}),1.1145,dairy,carbs
+14,frozenset({'other vegetables'}),frozenset({'rolls/buns'}),1.1143,fruit and veg,carbs
+15,frozenset({'soda'}),frozenset({'rolls/buns'}),1.0929,beverage,carbs
+16,frozenset({'rolls/buns'}),frozenset({'soda'}),1.0929,carbs,beverage
+17,frozenset({'whole milk'}),frozenset({'soda'}),1.052,dairy,beverage
+18,frozenset({'other vegetables'}),frozenset({'soda'}),1.0517,fruit and veg,beverage
+20,frozenset({'other vegetables'}),frozenset({'yogurt'}),1.129,fruit and veg,dairy
+21,frozenset({'rolls/buns'}),frozenset({'yogurt'}),1.1253,carbs,dairy

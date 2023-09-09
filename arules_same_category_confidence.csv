@@ -1,0 +1,3 @@
+Unnamed: 0,antecedents,consequents,confidence,antecedents categories,consequents categories
+0,frozenset({'yogurt'}),frozenset({'whole milk'}),0.5322,dairy,dairy
+19,frozenset({'whole milk'}),frozenset({'yogurt'}),0.3287,dairy,dairy
